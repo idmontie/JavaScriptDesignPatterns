@@ -1,0 +1,7 @@
+/.coverdata/
+/coverage/
+/debug/
+/node_modules/
+.coverrun
+.DS_Store
+npm-debug.log

@@ -1,0 +1,31 @@
+{
+  "name": "learning-javascript-design-patterns",
+  "version": "0.0.1",
+  "description": "Practicing design patterns!",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmontie/learning-javascript-design-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "sustainability"
+  ],
+  "author": "Ivan Montiel <idmontie@asu.edu> (https://github.com/idmontie)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idmontie/learning-javascript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/idmontie/learning-javascript-design-patterns#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.0.1"
+  }
+}
